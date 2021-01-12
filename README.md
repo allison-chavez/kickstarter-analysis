@@ -13,8 +13,8 @@ The analysis was able to be completed through excel formulas and functions that 
 Theater outcomes based on launch dates analysis was completed through gathering all the data from the kickstarter sheet and then creating a pivot table to filter out the information. The information was filtered by category, years, launch date, and outcomes. The then filtered information was used to create a line graph with markers in order to better understand in a visual form the campaign outcome based launch date throughout time. There was not many challenges I faced when creating this analysis but I could see how imporer filtering or incorrect time conversion could impact your results.
 
 ### Analysis of Outcomes Based on Goals
-The analysis done Based on Goals was more time consuming and required a better understand of using excel functions. Using the financial goal ranges and the COUNTIF formula consisted of having better knowledge of excel functions. The COUNTIF formula was a challenge I faced when it came to not making minor mistakes and working with different ranges. The SUM and Percentage formula was easier and was what helped better vicualize the graph.
-![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png).
+The analysis done Based on Goals was more time consuming and required a better understand of using excel functions. Using the financial goal ranges and the COUNTIF formula consisted of having better knowledge of excel functions. The COUNTIF formula was a challenge I faced when it came to not making minor mistakes and working with different ranges. The SUM and Percentage formula was easier and was what helped better visualize the graph.
+![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png).
 
 ### Challenges and Difficulties Encountered
 Overall, there was not many challenges rather than understanding the functions and paying close attention to details when performing the analysis. 
