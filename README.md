@@ -21,12 +21,10 @@ The analysis done Based on Goals was more time consuming and required a better u
 Overall, there was not many challenges rather than understanding the functions and paying close attention to details when performing the analysis. 
 
 ## Results
--The results for the Outcomes based on Launch Date
+- The results for the Outcomes based on Launch Date
 The best months to launch a theater campaign are during the months of April through August, peak is May and June, although there is a higher amount of campaigns released the success rate is higher rather than in later months of the year. Failed campaigns were remotely consistent but increased during the summer months but were low relative to the amount released. 
 - The Outcomes Based on Goals for play campaigns were an inverse relation. Their was a higher success percentage for having a low financial goal. Meanwhile a higher failure percentage if the financial goal was higher, in example there was a 100% chance of failure for those who had a goal between 45000 and 49999.
 
-- What are some limitations of this dataset?
-Some limitations from this data set is that I think it is still vague if someone were to try to use this information to really start a campaign. I think there needs to be more tables created in order to see a better trend of campaign success.
+- Some limitations from this data set is that I think it is still vague if someone were to try to use this information to really start a campaign. I think there needs to be more tables created in order to see a better trend of campaign success.
 
-- What are some other possible tables and/or graphs that we could create?
-One could create other tables and graphs in relation to different categories other than theater and plays. Also, create an anlysis based on deadline for campaigns. 
+- In order to help with the limitations of this data, one could create other tables and graphs in relation to different categories other than theater and plays. Also, create an anlysis based on deadlines for campaigns. 
