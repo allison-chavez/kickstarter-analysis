@@ -14,7 +14,7 @@ Theater outcomes based on launch dates analysis was completed through gathering 
 
 ### Analysis of Outcomes Based on Goals
 The analysis done Based on Goals was more time consuming and required a better understand of using excel functions. Using the financial goal ranges and the COUNTIF formula consisted of having better knowledge of excel functions. The COUNTIF formula was a challenge I faced when it came to not making minor mistakes and working with different ranges. The SUM and Percentage formula was easier and was what helped better vicualize the graph.
-[Resources](path/to/Outcomes_vs_Goals.png).
+![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png).
 
 ### Challenges and Difficulties Encountered
 Overall, there was not many challenges rather than understanding the functions and paying close attention to details when performing the analysis. 
